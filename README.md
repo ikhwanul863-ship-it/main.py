@@ -1,4 +1,4 @@
-# main.py
+
 # Program Menghitung Total Belanja (Python)
 
 Program sederhana berbasis CLI (Command Line Interface) menggunakan bahasa pemrograman Python untuk menghitung total harga belanjaan berdasarkan nama barang, harga satuan, dan jumlah pembelian, serta menghitung uang kembalian.
